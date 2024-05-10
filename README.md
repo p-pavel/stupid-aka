@@ -1,2 +1,1 @@
-# stupid-aka
-Akka and microservices considered  stupidest idea
+# Akka and microservices considered stupidest idea ether
